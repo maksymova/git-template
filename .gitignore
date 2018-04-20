@@ -1,0 +1,5 @@
+#folder docs
+docs/*.txt
+
+#folder logsH
+logsH/
